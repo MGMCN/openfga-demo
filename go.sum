@@ -1,0 +1,5 @@
+github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
+github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/jarcoal/httpmock v1.3.0 h1:2RJ8GP0IIaWwcC9Fp2BmVi8Kog3v2Hn7VXM3fTd+nuc=
+github.com/openfga/go-sdk v0.2.2 h1:zzQPdcX/CNLXwycqYNx5LvP78kzVs6R8p5GXw/0II3s=
+github.com/openfga/go-sdk v0.2.2/go.mod h1:ZB13O8GilPc0ITWssOszgxmz6CnIe8PQLZqbqAnx2IY=
